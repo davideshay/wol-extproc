@@ -8,7 +8,6 @@ require (
 )
 
 require (
-	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cncf/xds/go v0.0.0-20231128003011-0fa0005c9caa // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.0.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
