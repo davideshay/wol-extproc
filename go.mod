@@ -1,6 +1,6 @@
 module wol-extproc
 
-go 1.21
+go 1.24.5
 
 require (
 	github.com/envoyproxy/go-control-plane v0.12.0
